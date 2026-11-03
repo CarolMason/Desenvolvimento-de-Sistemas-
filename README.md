@@ -49,6 +49,3 @@ Cada linha de vida representa um objeto anônimo da classe indicada. Os objetos 
 | `«create»` | Criação de objeto |
 | `ref` (nota) | Referência a outro caso de uso |
 
-## Como visualizar
-
-Os diagramas estão escritos em [Mermaid](https://mermaid.js.org/) dentro de blocos de código. O GitLab renderiza esses blocos automaticamente ao abrir cada arquivo `.md` no navegador.
