@@ -1,7 +1,9 @@
 # TG5 — Diagrama de Transição de Estado
 
 **Disciplina:** Desenvolvimento de Sistemas I — Prof. Luiz Lozano
+
 **Equipe:** Super
+
 **Projeto:** Sistema de Reservas de Restaurantes (plataforma web)
 
 ## Integrantes
@@ -27,6 +29,3 @@ O arquivo traz o diagrama, a lista de estados, a tabela de transições (evento,
 - **TG3** — diagrama de classes de domínio (enum `StatusReserva`)
 - **TG4** — diagramas de sequência (ciclo de vida da `PropostaReagendamento`)
 
-## Como visualizar
-
-O diagrama está em [Mermaid](https://mermaid.js.org/) dentro de um bloco de código, que o GitLab renderiza ao abrir o `.md`. Há também uma imagem pronta (`diagrama-de-estado.png`).
